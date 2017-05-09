@@ -40,6 +40,9 @@ Thumbs.db
 .idea/
 *.iml
 
+# Visual Studio Code files
+.vscode/
+
 # osx specific files
 *~
 *.lock
